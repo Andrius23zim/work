@@ -1,0 +1,46 @@
+
+    img {
+        width: 100px;
+        height: 100px;
+        object-fit: cover;
+        border-radius: 100px;
+        
+    }
+
+    .component {
+        width: 950px;
+        border: 0;
+    }
+
+    .box {
+        display: flex;
+        flex-direction: column;
+        flex-grow: 1;
+        gap: 5px;
+    }
+
+
+    .box-text {
+        display: flex;
+        flex-direction: row;
+        gap: 20px;
+        align-content: stretch;
+    }
+
+    .text-namber {
+        width: calc((100% - 2 * 1rem) / 3);
+        padding: 45px;
+        text-align: center;
+    }
+
+
+
+
+
+
+
+
+
+       
+        
+    
